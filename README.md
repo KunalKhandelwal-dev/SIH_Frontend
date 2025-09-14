@@ -20,7 +20,7 @@ This project is built with:
 - Tailwind CSS
 
   Frontend done by Emmanuel Zammah
-  Some update in the frontedn part, done by Kunal Khandelwal
+  Some update in the frontend, done by Kunal Khandelwal
 
   for the backend team, kindly note that no information was hand coded but gotten directy from a moclup database js file in JSON format, it can be found 
   train-fault-insightsrc >> data >> data.js
